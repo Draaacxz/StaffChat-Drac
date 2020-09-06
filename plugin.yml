@@ -1,0 +1,6 @@
+name: DracStaffChat
+version: 0.1
+main: me.drac.sc.Main
+author: [Drac]
+commands:
+  sc:
